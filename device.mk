@@ -16,8 +16,6 @@
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += device/essential/mata/overlay
-PRODUCT_ENFORCE_RRO_TARGETS := \
-    framework-res
 
 # AAPT
 PRODUCT_AAPT_CONFIG := normal
