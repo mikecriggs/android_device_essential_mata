@@ -5,9 +5,9 @@
     "branch"     : "o8x-caf"
   },
   {
-    "repository" : "TheMuppets/proprietary_vendor_essential",
+    "repository" : "mikecriggs/andoird_vendor_essential",
     "target_path": "vendor/essential",
-    "branch"     : "lineage-15.1"
+    "branch"     : "o8x-caf"
   },
   {
     "repository" : "DirtyUnicorns/android_vendor_pixelgapps",
